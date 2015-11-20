@@ -1,7 +1,7 @@
 some_var = "false"
 another_var = "nil"
 
-case 
+  case 
 when some_var == "pink elephant"
   puts "Don't think about the pink elephant!"
 
