@@ -1,5 +1,6 @@
 *.pdf
 *.md
 *.html
-*.rspec
+.rspec
+*spec_helper.rb
 test.rb
