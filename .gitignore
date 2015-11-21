@@ -3,5 +3,4 @@
 *.html
 .rspec
 *spec_helper.rb
-test.rb
-input.txt
+test/*
